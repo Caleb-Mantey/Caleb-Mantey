@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/dungaavalanche" target="blank"><img src="https://img.shields.io/twitter/follow/dungaavalanche?logo=twitter&style=for-the-badge" alt="dungaavalanche" /></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=caleb-mantey&show_icons=true&locale=en" alt="caleb-mantey" /></p>
-&nbsp;
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Solid Design Principles In Javascript &lpar;Part 3&rpar; — Interface Segregation Principle &amp; Dependency Inversion](https://dev.to/calebmantey/solid-design-principles-in-javascript-part-3-interface-segregation-principle-dependency-inversion-5b1i)
@@ -43,6 +40,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caleb-mantey&show_icons=true&locale=en&layout=compact" alt="caleb-mantey" />
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=caleb-mantey&show_icons=true&locale=en" alt="caleb-mantey" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caleb-mantey&" alt="caleb-mantey" /></p>
 
