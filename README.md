@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/dungaavalanche" target="blank"><img src="https://img.shields.io/twitter/follow/dungaavalanche?logo=twitter&style=for-the-badge" alt="dungaavalanche" /></a> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=caleb-mantey&show_icons=true&locale=en" alt="caleb-mantey" /></p>
+&nbsp;
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
