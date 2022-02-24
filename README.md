@@ -16,9 +16,9 @@
 
 ### My Projects
 <!-- MY-PROJECTS-LIST:START -->
-#### Games
-- [Dark Echoes - Third Person Shooter (PC)](https://caleb-mantey.itch.io/dark-echoes)
-- [Beats Slice](https://play.google.com/store/apps/details?id=com.DungaStudios.CubeSlice)
+  - #### Games
+    - [Dark Echoes - Third Person Shooter (PC)](https://caleb-mantey.itch.io/dark-echoes)
+    - [Beats Slice](https://play.google.com/store/apps/details?id=com.DungaStudios.CubeSlice)
 <!-- MY-PROJECTS-LIST:END -->
 
 
