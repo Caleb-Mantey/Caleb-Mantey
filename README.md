@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dungaavalanche" target="blank"><img src="https://img.shields.io/twitter/follow/dungaavalanche?logo=twitter&style=for-the-badge" alt="dungaavalanche" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://caleb-mantey.github.io/portfolio/](https://caleb-mantey.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://caleb-mantey.github.io/](https://caleb-mantey.github.io/)
 
 - 💬 Ask me about **react, rails, nestjs, unity/game dev and XR**
 
