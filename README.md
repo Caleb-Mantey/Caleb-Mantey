@@ -22,9 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Solid Design Principles In Javascript &lpar;Part 3&rpar; — Interface Segregation Principle &amp; Dependency Inversion](https://dev.to/calebmantey/solid-design-principles-in-javascript-part-3-interface-segregation-principle-dependency-inversion-5b1i)
+- [Solid Design Principles In Javascript &lpar;Part 2&rpar; — Open-Closed Principle / Liskov Substitution Principle](https://dev.to/calebmantey/solid-design-principles-in-javascript-part-2-open-closed-principle-liskov-substitution-principle-2h63)
+- [Solid Design Principles In Javascript &lpar;Part 1&rpar; — Single Responsibility Principle](https://dev.to/calebmantey/solid-design-principles-in-javascript-part-1-single-responsibility-principle-4k0c)
 - [Solid Design Principles In Javascript &lpar;Part 3&rpar; — Interface Segregation Principle &amp; Dependency…](https://manteycaleb.medium.com/solid-design-principles-in-javascript-part-3-interface-segregation-principle-dependency-cc44cabdc350?source=rss-a1b4b1dd3f82------2)
-- [Solid Design Principles In Javascript &lpar;Part 2&rpar; — Open-Closed Principle](https://manteycaleb.medium.com/solid-design-principles-in-javascript-part-2-open-closed-principle-6ba72d703629?source=rss-a1b4b1dd3f82------2)
-- [Solid Design Principles In Javascript &lpar;Part 1&rpar; — Single Responsibility Principle](https://manteycaleb.medium.com/solid-design-principles-in-javascript-50ff0d2b75b5?source=rss-a1b4b1dd3f82------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Projects
