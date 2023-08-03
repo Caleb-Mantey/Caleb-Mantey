@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manteycaleb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jsMWSlx6kdsssy98D9-uJNzgyHTcaZDW/view?usp=sharing](https://drive.google.com/file/d/1jsMWSlx6kdsssy98D9-uJNzgyHTcaZDW/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1XEviEz9yj_9eoXoBBjwG8Y_E8e3JJlZ8/view?usp=sharing)
 
 - ⚡ Fun fact **I can eat 10 balls of banku at once**
   
